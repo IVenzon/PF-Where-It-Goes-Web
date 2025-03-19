@@ -1,6 +1,6 @@
 # ENG 100D A00 Winter 2025
 # Project Group C | PlanetFlip: Where It Goes
-# View our app [here:](https://ivenzon.github.io/PF-Where-It-Goes-Web/)
+# [View our app here!](https://ivenzon.github.io/PF-Where-It-Goes-Web/)
 
 ## Team Members:
 
